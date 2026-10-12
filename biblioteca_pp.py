@@ -160,7 +160,7 @@ def mostrar_elemento(
             print("Promedio:", str(parte_entera) + "." +
                   str(parte_decimal))
 
-    print("-----------------------")
+     print("-" * 95)
 
 
 def encabezado_informe() -> None:
@@ -177,7 +177,7 @@ def encabezado_informe() -> None:
           f"{'NOTA 2DO PARCIAL':^18} | "
           f"{'LEGAJO':<10}")
 
-    print("-" * 60)
+    print("-" * 95)
 
 
 
